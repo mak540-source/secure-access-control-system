@@ -13,3 +13,15 @@ A simple authentication system built with Python and MySQL. It features secure p
 
 ## 🗂️ Project Structure
 
+## How to Run
+
+1. Clone the repository:
+
+   `git clone https://github.com/mak540-source/secure-access-control-system.git`
+
+## Security Notes
+
+- Passwords are hashed using bcrypt.
+- Access attempts are logged for review.
+- Database credentials should not be publicly shared.
+   
